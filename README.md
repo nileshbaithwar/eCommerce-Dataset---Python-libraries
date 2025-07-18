@@ -1,4 +1,4 @@
-# Data Analysis and Visualization using Python
+# Data Analysis and Visualization using Python libraries (pandas, matplotlib, seaborn)
 
 ## Overview
 This project performs **data analysis and visualization** on an **eCommerce dataset** using popular **Python libraries**. The dataset contains sales information across multiple channels, products, and customer demographics, including age group, gender, and geographic location (cities and states).
@@ -58,7 +58,7 @@ This project uses Python to create the following types of visualizations:
 ### Installation:
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/ecommerce-data-analysis-python.git
+   https://github.com/nileshbaithwar/eCommerce-Dataset---Python-libraries/edit/main/README.md
 Navigate to the project directory:
 bash
 Copy
